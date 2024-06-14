@@ -1,3 +1,5 @@
+<img src="Images/banner.gif">
+
 # Titanic Survival Prediction Model
 
 ## Table of Contents
@@ -21,10 +23,11 @@ The objective of this project was to build a predictive model using the Titanic 
 ## Dataset Description
 <br>
 The Titanic dataset contains information about individual passengers, including the following features:
+
 - **Pclass**: Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd)
 - **Sex**: Gender of the passenger
 - **Age**: Age of the passenger
-- **SibSp**: Number of siblings or spouses aboard the Titanic
+- **SibSp*#: Number of siblings or spouses aboard the Titanic
 - **Parch**: Number of parents or children aboard the Titanic
 - **Ticket**: Ticket number
 - **Fare**: Passenger fare
@@ -45,6 +48,8 @@ Before building the models, the following preprocessing steps were undertaken:
 2. **Feature Encoding**: Categorical variables (`Sex`, `Embarked`) were converted into numerical values using one-hot encoding.
 
 3. **Feature Scaling**: Continuous variables (`Age`, `Fare`) were standardized to have a mean of 0 and a standard deviation of 1.
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d03235ce-bfed-4726-a01f-f5adaf9461ce/d1j5ugj-a5c53295-8253-4bae-9853-cbb387598787.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QwMzIzNWNlLWJmZWQtNDcyNi1hMDFmLWY1YWRhZjk0NjFjZVwvZDFqNXVnai1hNWM1MzI5NS04MjUzLTRiYWUtOTg1My1jYmIzODc1OTg3ODcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JJE6jShHwlP6VliUMOWsj-lcaD_ENRO9h6pXkuuLEps" />
 <br>
 
 ## Model Building
