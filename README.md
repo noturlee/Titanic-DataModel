@@ -80,8 +80,10 @@ Two machine learning models were trained and evaluated: Logistic Regression and 
 <img width="1192" alt="RandomForestOutput" src="https://github.com/noturlee/TitanicModel-CODSOFT/assets/100778149/7e3619ec-476c-4279-8c75-81334a850d19">
 
 <br>
+
 ## Data Visualisations
 <br>
+
 
 <p float="left">
 <img width="400" alt="Screenshot 2024-06-14 at 13 45 37" src="https://github.com/noturlee/TitanicModel-CODSOFT/assets/100778149/4682463d-3dd6-4a76-9eb3-c1bace73bdb7">
