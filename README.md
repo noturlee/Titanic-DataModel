@@ -2,6 +2,8 @@
 
 # Titanic Survival Prediction Model
 
+[![GitHub views](https://img.shields.io/github/traffic/views/noturlee/TitanicDataModel-CODSOFT)](https://github.com/noturlee/TitanicDataModel-CODSOFT)
+
 ## Table of Contents
 
 - [Objective](#objective)
