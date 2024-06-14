@@ -1,3 +1,5 @@
+<img src="Images/banner.gif">
+
 # Titanic Survival Prediction Model
 
 ## Table of Contents
