@@ -2,7 +2,7 @@
 
 # Titanic Survival Prediction Model
 
-[![GitHub views](https://img.shields.io/github/traffic/views/noturlee/TitanicDataModel-CODSOFT)](https://github.com/noturlee/TitanicDataModel-CODSOFT)
+[![GitHub views](https://komarev.com/ghpvc/?username=noturlee&label=Views&color=brightgreen&style=plastic)](https://github.com/noturlee/TitanicDataModel-CODSOFT)
 
 ## Table of Contents
 
